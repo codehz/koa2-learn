@@ -8,7 +8,14 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": "https://github.com/codehz/koa2-learn",
   "dependencies": {
     "koa": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "babel-polyfill": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-stage-3": "^6.5.0"
   }
 }
